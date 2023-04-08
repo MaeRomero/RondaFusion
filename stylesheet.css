@@ -1,0 +1,24 @@
+body{background-image:url(https://img.freepik.com/foto-gratis/vista-lateral-setas-freir-estufa-gas-fuego-mano-humana-sarten_176474-3145.jpg?w=740&t=st=1673724142~exp=1673724742~hmac=f1226b5dde257a6d5e6d72a00ec5ccdd12c9bb99821760eaf6eb532a1701d492); background-position:center; background-size:cover; background-attachment:fixed}
+h1{color:tomato;
+font-family:cursive;
+text-align:center;
+font-size:70px;text-shadow:4px 4px grey}
+h2{color:tomato; font-size:50px;margin-left:30px; font-family:cursive}
+h3{color:grey;font-size:25px; font-family:cursive; margin-left:30px; margin-right:30px; text-align:center}
+h4{font-family:cursive; color:grey ; font-size:30px; margin-left:30px}
+table{color:grey; font-family:cursive;margin-left:30px}
+p{color:grey; font-family:cursive; font-size:20px}
+ul{color:grey; font-family:cursive; font-size:25px}
+#asia{float:left; margin-right:30px;margin-left:30px; opacity:0.7} 
+#mexico{float:left; margin-right:30px; margin-left:30px; opacity:0.7}
+#intro{border:outset; color:grey;}
+#as{margin-top:100px}
+#mex{margin-top:150px}
+#arg{margin-top:150px}
+#argentina{float:left; margin-right:30px; margin-left:30px; opacity:0.7}
+#postres{margin-top:150px}
+#choco{margin-right:30px; margin-left:30px; margin-left:30px;opacity:0.7}
+#red{margin-right:30px; opacity:0.7}
+#fruits{opacity:0.7}
+p{margin-left:30px}
+
